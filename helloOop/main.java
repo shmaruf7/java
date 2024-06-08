@@ -1,6 +1,6 @@
 package helloOop;
 
-public class main {
+public class main extends Car {
     public static void main(String[] args) {
         Car c1 = new Car();
         c1.setCompany_name("Company name: Toyota");
